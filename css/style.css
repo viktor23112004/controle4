@@ -1,0 +1,21 @@
+.icons1 ul li i {
+    margin-right: 15px;
+}
+
+.icons1 ul li {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.icons1 h6 {
+    margin: 15px 20px;
+}
+
+div .icons2 .card .card-content {
+    padding-left: 40%;
+}
+
+div .icons3 .card .card-content {
+    padding: 0;
+} 
+
