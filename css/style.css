@@ -43,8 +43,13 @@ div .icons3 .card .card-content {
     padding: 5px 10px;
 }
 
-.stats table td {
-    
+.footer ul li a {
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-right: 20px;
+    color: black;
 }
+
+
 
 
