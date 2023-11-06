@@ -7,15 +7,44 @@
     padding: 5px;
 }
 
+.icons1 .active-red {
+    background-color: red;
+}
+
+.icons1 ul a li {
+    background-color: white;
+}
+
+.icons1 ul a li:hover {
+    background-color: red;
+}
+
 .icons1 h6 {
     margin: 15px 20px;
 }
 
 div .icons2 .card .card-content {
-    padding-left: 40%;
+    padding-left: 50%;
 }
 
 div .icons3 .card .card-content {
     padding: 0;
 } 
+
+.tasks ul li {
+    margin-right: 20px;
+}
+
+.tasks ul li .material-icons {
+    margin-right: 5px;
+}
+
+.tasks ul li a {
+    padding: 5px 10px;
+}
+
+.stats table td {
+    
+}
+
 
